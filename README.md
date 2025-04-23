@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simão</h1>
-- 🔭 I’m currently taking a master on [Software Engineering @FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=10861&pv_origem=CAND)
 
+- 🔭 I’m currently taking a master in [Software Engineering at FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=10861&pv_origem=CAND)
 - 📫 How to reach me **simao8antunes@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
